@@ -13,3 +13,4 @@ The purpose of this project is to predict the winner of football matches in the 
 
 * `scraping.ipynb` - a Jupyter notebook that scrapes our data from [FBref](https://fbref.com/en/).
 * `prediction.ipynb` - a Jupyter notebook that train the model and makes predictions.
+* `matches.csv` - the output of our scraped data for the 21/22, 22/23 seasons of the English Premier League.
